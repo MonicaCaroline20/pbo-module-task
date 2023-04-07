@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Documents\belajar C#\day 1\ConsoleApp5\obj\Debug\net6.0\TugasPrakPBO.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\belajar C#\day 1\ConsoleApp5\obj\Debug\net6.0\TugasPrakPBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\belajar C#\day 1\ConsoleApp5\obj\Debug\net6.0\TugasPrakPBO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\belajar C#\day 1\ConsoleApp5\obj\Debug\net6.0\TugasPrakPBO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\belajar C#\day 1\ConsoleApp5\obj\Debug\net6.0\TugasPrakPBO.csproj.CoreCompileInputs.cache
